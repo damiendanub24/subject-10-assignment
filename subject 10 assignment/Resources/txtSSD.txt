@@ -1,0 +1,1 @@
+The SSD is high speed storage used to store data permanently, until you decide to manually delete it.

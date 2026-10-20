@@ -1,0 +1,1 @@
+The CPU is the brain of your computer, it procceses all your data, and instructs all of your other components what to do.

@@ -1,0 +1,1 @@
+The RAM is temporary storage on your computer used for running any program or process in use, but it empties when you power off your computer
